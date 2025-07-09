@@ -1,12 +1,15 @@
-# React + Vite
+Tech Stack: React.js, TMDB API, JavaScript, HTML/CSS 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview: Developed a responsive and interactive web application that allows users to search for movies and curate a personalized list of favorites. The project leverages The Movie Database (TMDB) API to fetch real-time movie data, including posters, descriptions, and ratings.
 
-Currently, two official plugins are available:
+Key Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 Search Functionality: Users can search for movies by title with real-time suggestions and results powered by TMDB API.
 
-## Expanding the ESLint configuration
+❤️ Favorites List: Users can add or remove movies from a favorites list, which is stored locally for persistence across sessions.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 Modern UI/UX: Built with React and styled using CSS modules for a clean, intuitive user experience.
+
+⚡ Performance Optimized: Implemented lazy loading for images and efficient state management using React hooks.
+
+Impact: This project demonstrates proficiency in API integration, component-based architecture, and state management in React. It also reflects a strong understanding of user-centric design and frontend development best practices.
